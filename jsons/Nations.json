@@ -38,7 +38,7 @@
 
 {
 		"name": "AmazingLand",
-		"leaderName":Scarlan",
+		"leaderName":"Scarlan",
 		"adjective": ["Amazing"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
