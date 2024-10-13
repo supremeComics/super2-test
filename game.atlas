@@ -14,7 +14,7 @@ NationIcons/HTOW
 
 NationIcons/AmazingLand
   rotate: false
-  xy: 100, 0
+  xy: 0, 0
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
