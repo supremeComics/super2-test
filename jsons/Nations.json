@@ -1,13 +1,13 @@
 [
 	{
 		"name": "HTOW",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"leaderName": "Solomon Hall",
+		"adjective": ["Christian"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We are HTOW. Proclaiming that Jesus is The Only Way.",
+		"startIntroPart2": "We are a nation created for GOD.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
