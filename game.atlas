@@ -4,7 +4,7 @@ size: 96, 96
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Aliens
+NationIcons/HTOW
   rotate: false
   xy: 0, 0
   size: 96, 96
