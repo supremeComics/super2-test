@@ -1,5 +1,6 @@
 {
     {
-        "name": "Earthquaker"
+        "name": "Earthquaker",
+        "uniques": ["Blast radius [3] <Self-destrucSelf-destructs when attacking>"]
     }
 }
