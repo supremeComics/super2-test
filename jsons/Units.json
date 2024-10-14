@@ -1,6 +1,10 @@
 {
     {
         "name": "Earthquaker",
+        "unitType": "Civilian",
+        "cost": "5",
+        "movement": "6",
+        "strength": "6",
         "uniques": ["Blast radius [3] <Self-destrucSelf-destructs when attacking>"]
     }
 }
