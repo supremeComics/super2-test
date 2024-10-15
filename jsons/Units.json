@@ -1,17 +1,10 @@
 [
 	{
 		"name": "Earthquaker",
-		"unitType": "Ranged",
-		"uniqueTo": "HTOW",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"unitType": "Civilian",
+		"movement": 6,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 5,
+   "uniques": ["Blast radius[3]", "Destroys tile improvements when attacking"]
 	}
 ]
