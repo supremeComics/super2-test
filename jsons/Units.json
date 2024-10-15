@@ -5,6 +5,6 @@
 		"movement": 6,
 		"strength": 90,
 		"cost": 5,
-   "uniques": ["Destroys tile improvements when attacking", "Can only attack [All] tiles"]
+   "uniques": ["Can build [Earthquaked] improvements on tiles"]
 	}
 ]
