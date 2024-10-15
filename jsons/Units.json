@@ -2,6 +2,8 @@
     {
         "name": "Earthquaker",
         "unitType": "Civilian",
+        "uniqueTo": "HTOW",
+        "replaces": "Worker",
 		     "movement": 2,
 		     "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		     "cost": 70
