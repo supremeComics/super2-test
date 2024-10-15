@@ -1,0 +1,41 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/AmazingLand
+  rotate: false
+  xy: 320, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+NationIcons/HTOW
+  rotate: false
+  xy: 320, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Earthquaker
+  rotate: false
+  xy: 212, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Earthquaked
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Earthquaker
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
