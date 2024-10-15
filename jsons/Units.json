@@ -5,6 +5,6 @@
 		"movement": 6,
 		"strength": 90,
 		"cost": 5,
-   "uniques": ["Blast radius[3]", "Destroys tile improvements when attacking"]
+   "uniques": ["Blast radius [3]", "Destroys tile improvements when attacking"]
 	}
 ]
