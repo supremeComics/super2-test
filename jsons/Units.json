@@ -1,7 +1,7 @@
 {
     {
         "name": "Earthquaker",
-        "unitType": "Ranged",
+        "unitType": "Civilian",
         "uniqueTo": "HTOW",
         "replaces": "Worker",
 		     "movement": 2,
