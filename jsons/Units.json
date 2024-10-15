@@ -2,8 +2,8 @@
     {
         "name": "Earthquaker",
         "unitType": "Civilian",
-        "cost": "5",
-        "movement": "6",
-        "strength": "6"
+		     "movement": 2,
+		     "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		     "cost": 70
     }
 }
