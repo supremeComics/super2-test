@@ -1,6 +1,6 @@
 {
     {
-        "name": "Earthquaked",
+        "name": "Earthquaker",
         "unitType": "Civilian",
         "uniqueTo": "HTOW",
         "replaces": "Worker",
