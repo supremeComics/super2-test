@@ -4,7 +4,6 @@
         "unitType": "Civilian",
         "cost": "5",
         "movement": "6",
-        "strength": "6",
-        "uniques": ["Blast radius [3] <Self-destructs when attacking>"]
+        "strength": "6"
     }
 }
