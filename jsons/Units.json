@@ -2,7 +2,7 @@
 	{
 		"name": "Earthquaker",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "HTOW",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
