@@ -7,7 +7,8 @@
         "gold": -5,
         "terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Flood plains","Marsh","Oasis"],
         "uniques": ["Can be built outside your borders", "Excluded from map editor", "Neighboring tiles will convert to [Earthquaked]",
-"Turn this tile into a [Earthquaked] tile"]
+"Turn this tile into a [Earthquaked] tile",
+"Tile provides yield without assigned population"]
     },
     {
         "name": "Remove Earthquaked",
