@@ -2,6 +2,7 @@
     {
         "name": "Earthquake",
         "turnsToBuild": 5,
+        "terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Flood plains","Marsh","Oasis"],
         "uniques": ["Can be built outside your borders", "Excluded from map editor", "Neighboring tiles will convert to [Earthquaked]"]
     },
     {
