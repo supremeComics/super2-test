@@ -1,7 +1,12 @@
 [
     {
+        "name": "Earthquake",
+        "turnsToBuild": 5,
+        "uniques": ["Can be built outside your borders", "Excluded from map editor", "Neighboring tiles will convert to [Earthquaked]"]
+    },
+    {
         "name": "Remove Earthquaked",
-        "turnsToBuild", 5,
+        "turnsToBuild": 5,
         "uniques": ["Can be built outside your borders", "Excluded from map editor"]
     }
 ]
