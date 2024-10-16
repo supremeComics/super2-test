@@ -3,7 +3,10 @@
         "name": "Earthquaked",
         "type": "TerrainFeature",
         "movementCost": 5,
-        "unbuildable": false,
+        "gold": -5,
+        "production": -5,
+        "food": -5,
+        "unbuildable": true,
         "occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Flood plains","Marsh","Oasis"],
         "uniques": ["Nullifies all other stats this tile provides","Doesn't Generate Naturally"]
     }
